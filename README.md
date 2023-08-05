@@ -6,7 +6,7 @@ This repository contains the source code and results of a performance study comp
 
 - [UIKit App](https://github.com/namaswic/InfiniteScrollingWithUIKit) - Source code of the app developed using UIKit.
 - [SwiftUI App](https://github.com/namaswic/InfiniteScrollWithSwiftUI) - Source code of the app developed using SwiftUI.
-- [SwiftUI in UIViewController](https://github.com/namaswic/InfiniteScrollingWithUIViewControllerAndSwiftUI) - Source code of the app developed using SwiftUI views embedded in a UIViewController.
+- [Combined App](https://github.com/namaswic/InfiniteScrollingWithUIViewControllerAndSwiftUI) - Source code of the app developed using SwiftUI views embedded in a UIViewController.
 
 ## Survey Result
 
