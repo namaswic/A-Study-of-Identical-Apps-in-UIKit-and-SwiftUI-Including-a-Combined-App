@@ -1,6 +1,6 @@
 # Performance Study of iOS App Development Frameworks
 
-This repository contains the source code and results of a performance study comparing UIKit and SwiftUI frameworks for iOS app development. The study aims to evaluate the speed, memory usage, and battery consumption of apps developed using these two frameworks. Three identical iOS apps were created: one using UIKit, another using SwiftUI exclusively, and a third app with SwiftUI views embedded in a UIViewController. The performance tests were conducted on different devices using Instruments' CPU Profiler.
+This repository contains the source code and results of a performance study comparing UIKit and SwiftUI frameworks for iOS app development including the combined app. Three identical iOS apps were created: one using UIKit, another using SwiftUI exclusively, and a third app with SwiftUI views embedded in a UIViewController. The performance tests were conducted on different devices using Instruments' CPU Profiler.
 
 ## Project Links
 
